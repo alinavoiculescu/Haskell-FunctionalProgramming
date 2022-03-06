@@ -1,1 +1,1 @@
-# Haskell-FunctionalProgramming
+# Haskell -> Functional Programming
